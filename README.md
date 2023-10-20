@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Amber21457752
+- 👀 I’m interested in coding and software security
+- 🌱 I’m currently studying Computer Science
